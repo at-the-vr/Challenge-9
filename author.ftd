@@ -4,3 +4,17 @@ bio-url: blog-authors/karuna
 company: DevRev
 
 Technical writer with a background in data science and a passion for open-source, brings a unique perspective to creating effective and user-friendly documentation.
+
+-- common.author-meta antfu: Anthony Fu
+profile: Core Team Member
+bio-url: blog-authors/antfu
+company: Vue
+
+Creator of [Vitest](https://github.com/vitest-dev/vitest), Slidev, VueUse, UnoCSS. Core Team Member of Vue, Nuxt and Vite
+
+-- common.author-meta sarah: Sarah Rainsberger
+profile: Core Maintainer
+bio-url: blog-authors/sarah
+company: Astro
+
+Docs Lead, Core Maintainer and Technical writer for Astro. 🚀 Gitpod Community Hero. 🦸‍♀️ Codes entirely in the cloud on a Chromebook and Android tablet.

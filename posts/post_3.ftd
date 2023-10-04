@@ -1,0 +1,23 @@
+-- import: at-the-vr.github.io/challenge-9/author
+
+-- common.post-meta meta: Astro Docs Docs
+published-on: Sept 28, 2023
+post-image: $assets.files.assets.astro-docs-docs.jpg
+post-url: posts/post_3
+author: $author.sarah
+
+-- doc-site.page:
+site-logo: $assets.files.assets.icons8-grey.svg
+
+-- doc-site.post:
+meta: $meta
+
+-- end: doc-site.post
+
+-- doc-site.markdown:
+
+**This is the Unofficial Official Guide to contributing to Astro docs, and allows us to work with the best documentation framework available while we update and improve our guidance for contributors!**
+
+Link to the Website -- [Link](https://astro-docs-docs.netlify.app/)
+
+-- end: doc-site.page   
