@@ -1,0 +1,22 @@
+-- common.author-meta karuna: Karuna Tata
+profile: Member of Knowledge Staff
+bio-url: blog-authors/karuna/
+image: https://pbs.twimg.com/profile_images/1553729611195764739/Gc5-rL0w_400x400.jpg
+company: @DevRev
+
+Technical writer with a background in data science and a passion for open-source, brings a unique perspective to creating effective and user-friendly documentation.
+
+
+
+
+
+-- ds.page: 
+sidebar: false
+document-title: fastn midnight-rush Template. Build Your Own Website with Ease
+document-description: Simple, easy-to-use midnight-rush template to build your own documentation website, personal website, or blog. Change colours and typography effortlessly.
+document-image: https://pbs.twimg.com/profile_images/1553729611195764739/Gc5-rL0w_400x400.jpg
+
+-- ds.author-bio: 
+author: $karuna
+
+-- end: ds.page
