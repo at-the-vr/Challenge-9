@@ -10,13 +10,14 @@ Technical writer with a background in data science and a passion for open-source
 
 
 
--- ds.page: 
+-- doc-site.page: 
 sidebar: false
 document-title: fastn midnight-rush Template. Build Your Own Website with Ease
 document-description: Simple, easy-to-use midnight-rush template to build your own documentation website, personal website, or blog. Change colours and typography effortlessly.
 document-image: https://pbs.twimg.com/profile_images/1553729611195764739/Gc5-rL0w_400x400.jpg
+site-logo: $assets.files.assets.icons8-grey.svg
 
--- ds.author-bio: 
+-- doc-site.author-bio: 
 author: $karuna
 
--- end: ds.page
+-- end: doc-site.page

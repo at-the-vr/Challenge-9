@@ -8,13 +8,14 @@ Docs Lead, Core Maintainer and Technical writer for Astro. 🚀 Gitpod Community
 
 
 
--- ds.page: 
+-- doc-site.page: 
 sidebar: false
 document-title: fastn midnight-rush Template. Build Your Own Website with Ease
 document-description: Simple, easy-to-use midnight-rush template to build your own documentation website, personal website, or blog. Change colours and typography effortlessly.
 document-image: https://pbs.twimg.com/profile_images/1660330321252950033/MUVarJ4g_400x400.jpg
+site-logo: $assets.files.assets.icons8-grey.svg
 
--- ds.author-bio: 
+-- doc-site.author-bio: 
 author: $sarah
 
--- end: ds.page
+-- end: doc-site.page
