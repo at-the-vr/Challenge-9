@@ -1,4 +1,6 @@
 -- import: at-the-vr.github.io/challenge-9/posts/post_1
+-- import: at-the-vr.github.io/challenge-9/posts/post_2
+-- import: at-the-vr.github.io/challenge-9/posts/post_3
 
 -- doc-site.page:
 document-title: My Amusements
@@ -12,12 +14,18 @@ sidebar: false
 
 -- doc-site.page.body:
 
--- doc-site.h3: Roaming across the Tech Twitter, I found some talented folks and their content across Hashnode that I would like to mention over here
+-- doc-site.h3: Roaming across the Tech Twitter, I found some talented folks and their content across the Internet that I would like to mention over here
 
 -- doc-site.posts:
 
 -- doc-site.post-card:
 post-data: $post_1.meta
+
+-- doc-site.post-card:
+post-data: $post_2.meta
+
+-- doc-site.post-card:
+post-data: $post_3.meta
 
 -- end: doc-site.posts
 

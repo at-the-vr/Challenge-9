@@ -1,0 +1,20 @@
+-- common.author-meta antfu: Anthony Fu
+profile: Core Team Member
+bio-url: blog-authors/antfu
+image: https://pbs.twimg.com/profile_images/1696075290080952321/u1o1xy3W_400x400.jpg
+company: @Vue
+
+Creator of [Vitest](https://github.com/vitest-dev/vitest), Slidev, VueUse, UnoCSS. Core Team Member of Vue, Nuxt and Vite
+
+
+
+-- ds.page: 
+sidebar: false
+document-title: fastn midnight-rush Template. Build Your Own Website with Ease
+document-description: Simple, easy-to-use midnight-rush template to build your own documentation website, personal website, or blog. Change colours and typography effortlessly.
+document-image: https://pbs.twimg.com/profile_images/1696075290080952321/u1o1xy3W_400x400.jpg
+
+-- ds.author-bio: 
+author: $antfu
+
+-- end: ds.page

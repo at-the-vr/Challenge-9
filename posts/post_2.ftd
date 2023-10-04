@@ -1,0 +1,23 @@
+-- import: at-the-vr.github.io/challenge-9/author
+
+-- common.post-meta meta: Why I don't use Prettier
+published-on: Oct 1, 2022
+post-image: https://prettier.io/icon.png
+post-url: posts/post_2
+author: $author.antfu
+
+-- doc-site.page:
+site-logo: $assets.files.assets.icons8-grey.svg
+
+-- doc-site.post:
+meta: $meta
+
+-- end: doc-site.post
+
+-- doc-site.markdown:
+
+**Prettier is one of my most installed packages after bootstrapping any Project be it in React, Vue or Astro. Anthony here has given some hard to digest pills about how folks can think of their way around Prettier**
+
+Link to Complete Blog -- [Link](https://antfu.me/posts/why-not-prettier)
+
+-- end: doc-site.page
