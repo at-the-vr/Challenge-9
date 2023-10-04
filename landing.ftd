@@ -1,0 +1,78 @@
+-- doc-site.page:
+full-width: true
+sidebar: false
+document-title: fastn midnight-rush Template. Build Your Own Website with Ease
+document-description: Simple, easy-to-use midnight-rush template to build your own documentation website, personal website, or blog. Change colours and typography effortlessly.
+document-image: https://fastn-community.github.io/midnight-rush/-/fastn-community.github.io/midnight-rush/static/midnight-rush-og-image.
+site-logo: $assets.files.assets.icons8-grey.svg
+github-url: https://github.com/at-the-vr/challenge-9
+github-icon: true
+
+
+-- doc-site.hero-with-image: Confused where to start off building a new Website ??
+link: landing/
+cta-primary: Hit me up
+cta-primary-link: https://fastn.com/
+;; cta-secondary: Read the Docs
+;; cta-secondary-link: https://fastn.com/ftd/data-modelling/
+input-placeholder: Enter your work email
+image: $assets.files.assets.person-thinking.jpg
+
+Try [`fastn`](https://fastn.com/), a modern content focused solution to bring best performance and satisfaction for your customers.
+
+-- doc-site.logo-cloud: Trusted by the top companies in this industry
+logo-list: $common.list-of-logos
+
+-- doc-site.content: Getting stuck navigating across the Docs 😵
+
+Wake us in our [`Discord Server`](https://discord.gg/tNFp8qzT), where we have trained professionals assisting folks throughout their whole Day
+
+-- doc-site.hero-image-right: Easy to setup, Easier to configure
+image: $assets.files.assets.code-snippet.jpg
+link: landing
+;; cta-primary: Sign me up
+;; cta-primary-link: index.html
+
+- Import your dependencies in FASTN.ftd file
+
+;; -- doc-site.hero-image-left: Better cash control with our flow
+;; image: $assets.files.static.landing.cash_control.png
+;; link: landing/
+;; cta-primary: Sign me up
+;; cta-primary-link: index.html
+
+- Bring them in your <my_fastn_site>.ftd site
+
+;; -- doc-site.hero-image-right: Smart dashboard, powerful integrations
+;; image: $assets.files.static.landing.smart_dashboard.png
+;; link: landing/
+;; cta-primary: Sign me up
+;; cta-primary-link: index.html
+
+- Start using them
+
+;; -- doc-site.content: Experiences
+;; image: https://raw.githubusercontent.com/fastn-community/midnight-rush/f26dcdec731944aa4e22ff5b30fb9c57a42ed30e/static/landing/image.svg
+
+;; Bringing best Experience to both Customers and Developers
+
+;; -- doc-site.banner-card: See how much faster you can get paid with fastn
+;; info-cards: $common.list-of-info-cards
+
+;; -- doc-site.testimonials-card:
+;; testimonials: $common.list-of-testimonials
+;; nav: $common.navs
+
+-- doc-site.features-card: Why Fastn of all Frameworks?
+features: $common.list-of-features
+
+Simply put, we Good
+
+-- doc-site.faqs: Frequently Asked Questions
+faqs-list: $common.list-of-faqs
+
+-- doc-site.search-card: Freakishly simple. Downright useful. Ready to make the jump?
+help-info: Sign up in 2 minutes
+
+-- end: doc-site.page
+
