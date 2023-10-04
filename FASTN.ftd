@@ -5,6 +5,7 @@ favicon: /-/at-the-vr.github.io/challenge-9/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/midnight-rush as doc-site
 
+-- fastn.auto-import: fastn-community.github.io/midnight-rush/common
 -- fastn.auto-import: at-the-vr.github.io/challenge-9/FASTN/ds
 -- fastn.auto-import: at-the-vr.github.io/challenge-9/assets
 -- fastn.auto-import: doc-site
@@ -14,3 +15,4 @@ favicon: /-/at-the-vr.github.io/challenge-9/favicon.ico
 # Home: index.html
 - Overview: index.html
 
+# Blog: /blog/

@@ -1,0 +1,26 @@
+-- import: at-the-vr.github.io/challenge-9/author
+
+-- common.post-meta meta: 25+ Paid Open Source Programs and Internships
+published-on: May 5, 2022
+post-image: $assets.files.assets.4K1lauWeQ_.avif
+post-url: /posts/post_1
+author: $author.karuna
+
+-- doc-site.page:
+site-logo: $assets.files.assets.icons8-grey.svg
+
+-- doc-site.post:
+meta: $meta
+
+-- end: doc-site.post
+
+-- doc-site.markdown:
+
+**This is an informative package of some top Open Source Programs by Karuna. Some programs that I look forward for 👇**
+
+- Google Season Of Docs
+- MLH Fellowship
+
+Link to Complete Blog -- [Link](https://blog.wemakedevs.org/25-paid-open-source-programs-and-internships)
+
+-- end: doc-site.page   

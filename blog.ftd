@@ -1,0 +1,24 @@
+-- import: at-the-vr.github.io/challenge-9/posts/post_1
+
+-- doc-site.page:
+document-title: My Amusements
+title: This is a compilation of some Articles I liked
+document-description: A compilation of some Articles I liked
+site-logo: $assets.files.assets.icons8-grey.svg
+github-url: https://github.com/at-the-vr/challenge-9
+github-icon: true
+full-width: true
+sidebar: false
+
+-- doc-site.page.body:
+
+-- doc-site.h3: Roaming across the Tech Twitter, I found some talented folks and their content across Hashnode that I would like to mention over here
+
+-- doc-site.posts:
+
+-- doc-site.post-card:
+post-data: $post_1.meta
+
+-- end: doc-site.posts
+
+-- end: doc-site.page
